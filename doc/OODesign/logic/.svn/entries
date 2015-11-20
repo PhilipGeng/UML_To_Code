@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://repo.comp.polyu.edu.hk/subject/comp2021gp1"
+   name=""
+   revision="10"
+   last-author="12131354d"
+   url="https://repo.comp.polyu.edu.hk/subject/comp2021gp1/Module2/doc/OODesign/logic"
+   uuid="0d1b02aa-3d6d-11e3-9422-172e5f342b5b"
+   committed-rev="8"
+   kind="dir"
+   committed-date="2013-11-21T11:00:33.021016Z"/>
+<entry
+   name="ClassAttributes.html"
+   checksum="0e0de78ad4dadbed07e10604680b48bd"
+   last-author="12131354d"
+   committed-rev="8"
+   text-time="2013-11-21T11:00:33.021000Z"
+   kind="file"
+   committed-date="2013-11-21T11:00:33.021016Z"/>
+<entry
+   name="ClassMethods.html"
+   checksum="ddf2785742b5cd73f389067efb4ea7e7"
+   last-author="12131354d"
+   committed-rev="8"
+   text-time="2013-11-21T11:00:33.021000Z"
+   kind="file"
+   committed-date="2013-11-21T11:00:33.021016Z"/>
+<entry
+   name="ClassModifier.html"
+   checksum="ba3e697efee702ae196faaca8db7f886"
+   last-author="12131354d"
+   committed-rev="8"
+   text-time="2013-11-21T11:00:33.021000Z"
+   kind="file"
+   committed-date="2013-11-21T11:00:33.021016Z"/>
+<entry
+   name="ClassName.html"
+   checksum="2bef4b279bfc450e8219ecdcf7d999a5"
+   last-author="12131354d"
+   committed-rev="8"
+   text-time="2013-11-21T11:00:33.021000Z"
+   kind="file"
+   committed-date="2013-11-21T11:00:33.021016Z"/>
+<entry
+   name="JavaClass.html"
+   checksum="73a4513e7cd4849cf62f0329e496f6c2"
+   last-author="12131354d"
+   committed-rev="8"
+   text-time="2013-11-21T11:00:33.021000Z"
+   kind="file"
+   committed-date="2013-11-21T11:00:33.021016Z"/>
+<entry
+   name="JavaFile.html"
+   checksum="7a34ee595d024b06db3530b6523354d5"
+   last-author="12131354d"
+   committed-rev="8"
+   text-time="2013-11-21T11:00:33.021000Z"
+   kind="file"
+   committed-date="2013-11-21T11:00:33.021016Z"/>
+<entry
+   name="class-use"
+   kind="dir"/>
+<entry
+   name="package-frame.html"
+   checksum="c117716dbfb67ae135e31fadd3d9bee2"
+   last-author="12131354d"
+   committed-rev="8"
+   text-time="2013-11-21T11:00:33.021000Z"
+   kind="file"
+   committed-date="2013-11-21T11:00:33.021016Z"/>
+<entry
+   name="package-summary.html"
+   checksum="4ebb12c1015217a9df1e36db9b0743ca"
+   last-author="12131354d"
+   committed-rev="8"
+   text-time="2013-11-21T11:00:33.021000Z"
+   kind="file"
+   committed-date="2013-11-21T11:00:33.021016Z"/>
+<entry
+   name="package-tree.html"
+   checksum="d8825e3f64111cdb383f6eb353d1aaf9"
+   last-author="12131354d"
+   committed-rev="8"
+   text-time="2013-11-21T11:00:33.021000Z"
+   kind="file"
+   committed-date="2013-11-21T11:00:33.021016Z"/>
+<entry
+   name="package-use.html"
+   checksum="926a9c8c9317b3a3653ca608ef8c9808"
+   last-author="12131354d"
+   committed-rev="8"
+   text-time="2013-11-21T11:00:33.021000Z"
+   kind="file"
+   committed-date="2013-11-21T11:00:33.021016Z"/>
+</wc-entries>

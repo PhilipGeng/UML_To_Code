@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://repo.comp.polyu.edu.hk/subject/comp2021gp1"
+   name=""
+   revision="10"
+   last-author="12131354d"
+   url="https://repo.comp.polyu.edu.hk/subject/comp2021gp1/Module2/doc/OODesign/image"
+   uuid="0d1b02aa-3d6d-11e3-9422-172e5f342b5b"
+   committed-rev="8"
+   kind="dir"
+   committed-date="2013-11-21T11:00:33.021016Z"/>
+<entry
+   name="package-frame.html"
+   checksum="37484c26bfd6c949a91379387523d65b"
+   last-author="12131354d"
+   committed-rev="8"
+   text-time="2013-11-21T11:00:33.021000Z"
+   kind="file"
+   committed-date="2013-11-21T11:00:33.021016Z"/>
+<entry
+   name="package-summary.html"
+   checksum="d80dda47675a65a7206b206ca5bee163"
+   last-author="12131354d"
+   committed-rev="8"
+   text-time="2013-11-21T11:00:33.021000Z"
+   kind="file"
+   committed-date="2013-11-21T11:00:33.021016Z"/>
+<entry
+   name="package-tree.html"
+   checksum="75207e604363ce2ed8a52b0abf448a4b"
+   last-author="12131354d"
+   committed-rev="8"
+   text-time="2013-11-21T11:00:33.021000Z"
+   kind="file"
+   committed-date="2013-11-21T11:00:33.021016Z"/>
+<entry
+   name="package-use.html"
+   checksum="9fc0307748beee0effd64fd8e8382435"
+   last-author="12131354d"
+   committed-rev="8"
+   text-time="2013-11-21T11:00:33.021000Z"
+   kind="file"
+   committed-date="2013-11-21T11:00:33.021016Z"/>
+</wc-entries>

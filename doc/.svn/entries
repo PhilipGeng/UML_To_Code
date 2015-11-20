@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://repo.comp.polyu.edu.hk/subject/comp2021gp1"
+   name=""
+   revision="10"
+   last-author="12131354d"
+   url="https://repo.comp.polyu.edu.hk/subject/comp2021gp1/Module2/doc"
+   uuid="0d1b02aa-3d6d-11e3-9422-172e5f342b5b"
+   committed-rev="8"
+   kind="dir"
+   committed-date="2013-11-21T11:00:33.021016Z"/>
+<entry
+   name="OODesign"
+   kind="dir"/>
+<entry
+   name="allclasses-frame.html"
+   checksum="b04f8a03db6291fce0e78693f1ae989f"
+   last-author="12131354d"
+   committed-rev="8"
+   text-time="2013-11-21T11:00:33.021000Z"
+   kind="file"
+   committed-date="2013-11-21T11:00:33.021016Z"/>
+<entry
+   name="allclasses-noframe.html"
+   checksum="9d27a2149f103705824aab3d2c3dcbf2"
+   last-author="12131354d"
+   committed-rev="8"
+   text-time="2013-11-21T11:00:33.021000Z"
+   kind="file"
+   committed-date="2013-11-21T11:00:33.021016Z"/>
+<entry
+   name="constant-values.html"
+   checksum="8f124418d4c90d0729d9543435aa115c"
+   last-author="12131354d"
+   committed-rev="8"
+   text-time="2013-11-21T11:00:33.021000Z"
+   kind="file"
+   committed-date="2013-11-21T11:00:33.021016Z"/>
+<entry
+   name="deprecated-list.html"
+   checksum="8415880ba61f05a5f904f4d0e1b476dc"
+   last-author="12131354d"
+   committed-rev="8"
+   text-time="2013-11-21T11:00:33.021000Z"
+   kind="file"
+   committed-date="2013-11-21T11:00:33.021016Z"/>
+<entry
+   name="help-doc.html"
+   checksum="a97366b3d46678ca5ff1249109fa4f25"
+   last-author="12131354d"
+   committed-rev="8"
+   text-time="2013-11-21T11:00:33.021000Z"
+   kind="file"
+   committed-date="2013-11-21T11:00:33.021016Z"/>
+<entry
+   name="index-files"
+   kind="dir"/>
+<entry
+   name="index.html"
+   checksum="125775f4ff6a2439f3c954610f703d03"
+   last-author="12131354d"
+   committed-rev="8"
+   text-time="2013-11-21T11:00:33.021000Z"
+   kind="file"
+   committed-date="2013-11-21T11:00:33.021016Z"/>
+<entry
+   name="overview-frame.html"
+   checksum="2e1b2e75fc91ae17ded7aa56b68b84c7"
+   last-author="12131354d"
+   committed-rev="8"
+   text-time="2013-11-21T11:00:33.021000Z"
+   kind="file"
+   committed-date="2013-11-21T11:00:33.021016Z"/>
+<entry
+   name="overview-summary.html"
+   checksum="2314eba0c88755083fa4493b0452a577"
+   last-author="12131354d"
+   committed-rev="8"
+   text-time="2013-11-21T11:00:33.021000Z"
+   kind="file"
+   committed-date="2013-11-21T11:00:33.021016Z"/>
+<entry
+   name="overview-tree.html"
+   checksum="1e9817596a74be76bab171812c3b363e"
+   last-author="12131354d"
+   committed-rev="8"
+   text-time="2013-11-21T11:00:33.021000Z"
+   kind="file"
+   committed-date="2013-11-21T11:00:33.021016Z"/>
+<entry
+   name="package-list"
+   checksum="4faf62efe5c3ff11500d64ec993ed2e1"
+   last-author="12131354d"
+   committed-rev="8"
+   text-time="2013-11-21T11:00:33.021000Z"
+   kind="file"
+   committed-date="2013-11-21T11:00:33.021016Z"/>
+<entry
+   name="resources"
+   kind="dir"/>
+<entry
+   name="serialized-form.html"
+   checksum="3dd3ca63d956c1d0aeb627b12b89d25a"
+   last-author="12131354d"
+   committed-rev="8"
+   text-time="2013-11-21T11:00:33.021000Z"
+   kind="file"
+   committed-date="2013-11-21T11:00:33.021016Z"/>
+<entry
+   name="stylesheet.css"
+   checksum="28060ede72303e3cb3186b389610277c"
+   last-author="12131354d"
+   committed-rev="8"
+   text-time="2013-11-21T11:00:33.021000Z"
+   kind="file"
+   committed-date="2013-11-21T11:00:33.021016Z"/>
+</wc-entries>

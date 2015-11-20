@@ -1,0 +1,15 @@
+package OODesign.GUI;
+
+import javax.swing.JButton;
+/**
+ * this is an button interface
+ * @see ClassButton
+ * @see InheritanceArrowButton
+ * @author ZHANG Beibei
+ *
+ */
+
+public interface ButtonInterface {
+	public void setButton();
+	public JButton getButton();
+}

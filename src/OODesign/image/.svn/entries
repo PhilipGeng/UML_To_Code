@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://repo.comp.polyu.edu.hk/subject/comp2021gp1"
+   name=""
+   revision="10"
+   last-author="12131354d"
+   url="https://repo.comp.polyu.edu.hk/subject/comp2021gp1/Module2/src/OODesign/image"
+   uuid="0d1b02aa-3d6d-11e3-9422-172e5f342b5b"
+   committed-rev="8"
+   kind="dir"
+   committed-date="2013-11-21T11:00:33.021016Z"/>
+<entry
+   name="Arrow.jpg"
+   checksum="bbe612e94ad2dc684a43cea05e3783bd"
+   last-author="12131354d"
+   committed-rev="8"
+   text-time="2013-11-21T11:00:33.021000Z"
+   kind="file"
+   committed-date="2013-11-21T11:00:33.021016Z"
+   prop-time="2013-11-22T06:45:56.723000Z"/>
+<entry
+   name="Class.jpg"
+   checksum="03ecd27d47036ebc525310315e4b04d5"
+   last-author="12131354d"
+   committed-rev="8"
+   text-time="2013-11-21T11:00:33.021000Z"
+   kind="file"
+   committed-date="2013-11-21T11:00:33.021016Z"
+   prop-time="2013-11-22T06:45:56.699000Z"/>
+<entry
+   name="Interface.jpg"
+   checksum="f25a05784b4802392305d173bcf823c3"
+   last-author="12131354d"
+   committed-rev="8"
+   text-time="2013-11-21T11:00:33.021000Z"
+   kind="file"
+   committed-date="2013-11-21T11:00:33.021016Z"
+   prop-time="2013-11-22T06:45:56.682000Z"/>
+<entry
+   name="package-info.java"
+   checksum="bf4acc57c5e7cbcb11a56f137f10afb6"
+   last-author="12131354d"
+   committed-rev="8"
+   text-time="2013-11-21T11:00:33.021000Z"
+   kind="file"
+   committed-date="2013-11-21T11:00:33.021016Z"/>
+</wc-entries>

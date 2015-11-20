@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="https://repo.comp.polyu.edu.hk/subject/comp2021gp1"
+   revision="17"
+   last-author="12132031d"
+   url="https://repo.comp.polyu.edu.hk/subject/comp2021gp1/Module2/src/OODesign/GUI/relation"
+   committed-rev="17"
+   kind="dir"
+   committed-date="2013-12-01T16:53:42.847000Z"/>
+<entry
+   name="aggregation"
+   kind="dir"/>
+<entry
+   name="composition"
+   kind="dir"/>
+<entry
+   name="extend"
+   kind="dir"/>
+<entry
+   name="implement"
+   kind="dir"/>
+<entry
+   name="package-info.java"
+   checksum="972a16047a369fec44ea89eb583f028a"
+   last-author="12132031d"
+   text-time="2013-12-01T14:26:18.222000Z"
+   committed-rev="17"
+   kind="file"
+   committed-date="2013-12-01T16:53:42.847000Z"/>
+</wc-entries>

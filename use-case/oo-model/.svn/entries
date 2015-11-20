@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://repo.comp.polyu.edu.hk/subject/comp2021gp1"
+   name=""
+   revision="11"
+   last-author="12132031d"
+   url="https://repo.comp.polyu.edu.hk/subject/comp2021gp1/Module2/use-case/oo-model"
+   uuid="0d1b02aa-3d6d-11e3-9422-172e5f342b5b"
+   committed-rev="11"
+   kind="dir"
+   committed-date="2013-11-23T06:29:27.695000Z"/>
+<entry
+   name="domain model.pdf"
+   last-author="12132031d"
+   text-time="2013-11-21T11:00:33.021000Z"
+   committed-rev="11"
+   kind="file"
+   committed-date="2013-11-23T06:29:27.695000Z"
+   checksum="d0c8fee06474f331416d2271312ffa4a"
+   prop-time="2013-11-22T06:45:58.743000Z"/>
+</wc-entries>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://repo.comp.polyu.edu.hk/subject/comp2021gp1"
+   name=""
+   revision="10"
+   last-author="12131354d"
+   url="https://repo.comp.polyu.edu.hk/subject/comp2021gp1/Module2/doc/resources"
+   uuid="0d1b02aa-3d6d-11e3-9422-172e5f342b5b"
+   committed-rev="8"
+   kind="dir"
+   committed-date="2013-11-21T11:00:33.021016Z"/>
+<entry
+   name="background.gif"
+   checksum="1585f724123802e311ffda9fe3daec1d"
+   last-author="12131354d"
+   committed-rev="8"
+   text-time="2013-11-21T11:00:33.021000Z"
+   kind="file"
+   committed-date="2013-11-21T11:00:33.021016Z"
+   prop-time="2013-11-22T06:45:55.250000Z"/>
+<entry
+   name="tab.gif"
+   checksum="104b9cce4c6e7939d704a3622f3af134"
+   last-author="12131354d"
+   committed-rev="8"
+   text-time="2013-11-21T11:00:33.021000Z"
+   kind="file"
+   committed-date="2013-11-21T11:00:33.021016Z"
+   prop-time="2013-11-22T06:45:55.267000Z"/>
+<entry
+   name="titlebar.gif"
+   checksum="ffafa018717176c6a8dcc231cfb737e6"
+   last-author="12131354d"
+   committed-rev="8"
+   text-time="2013-11-21T11:00:33.021000Z"
+   kind="file"
+   committed-date="2013-11-21T11:00:33.021016Z"
+   prop-time="2013-11-22T06:45:55.285000Z"/>
+<entry
+   name="titlebar_end.gif"
+   checksum="afc6e5230ea7870c515dddb0bc48486d"
+   last-author="12131354d"
+   committed-rev="8"
+   text-time="2013-11-21T11:00:33.021000Z"
+   kind="file"
+   committed-date="2013-11-21T11:00:33.021016Z"
+   prop-time="2013-11-22T06:45:55.231000Z"/>
+</wc-entries>

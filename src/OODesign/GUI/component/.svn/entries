@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="https://repo.comp.polyu.edu.hk/subject/comp2021gp1"
+   revision="16"
+   last-author="12132031d"
+   url="https://repo.comp.polyu.edu.hk/subject/comp2021gp1/Module2/src/OODesign/GUI/composite"
+   committed-rev="16"
+   kind="dir"
+   committed-date="2013-12-01T16:53:32.063000Z"/>
+<entry
+   name="ButtonInterface.java"
+   revision="15"
+   schedule="add"
+   copied="true"
+   copyfrom-url="https://repo.comp.polyu.edu.hk/subject/comp2021gp1/Module2/src/OODesign/GUI/ButtonInterface.java"
+   kind="file"
+   copyfrom-rev="15"/>
+<entry
+   name="ClassButton.java"
+   revision="10"
+   schedule="add"
+   copyfrom-url="https://repo.comp.polyu.edu.hk/subject/comp2021gp1/Module2/src/OODesign/GUI/ClassButton.java"
+   copied="true"
+   copyfrom-rev="10"
+   kind="file"/>
+<entry
+   name="GraphPanel.java"
+   revision="15"
+   schedule="add"
+   copied="true"
+   copyfrom-url="https://repo.comp.polyu.edu.hk/subject/comp2021gp1/Module2/src/OODesign/GUI/GraphPanel.java"
+   kind="file"
+   copyfrom-rev="15"/>
+<entry
+   name="MainPanel.java"
+   revision="15"
+   schedule="add"
+   copyfrom-url="https://repo.comp.polyu.edu.hk/subject/comp2021gp1/Module2/src/OODesign/GUI/MainPanel.java"
+   copied="true"
+   copyfrom-rev="15"
+   kind="file"/>
+<entry
+   name="MiddlePanel.java"
+   revision="15"
+   schedule="add"
+   copied="true"
+   copyfrom-url="https://repo.comp.polyu.edu.hk/subject/comp2021gp1/Module2/src/OODesign/GUI/MiddlePanel.java"
+   kind="file"
+   copyfrom-rev="15"/>
+<entry
+   name="RecPanel.java"
+   revision="10"
+   schedule="add"
+   copyfrom-url="https://repo.comp.polyu.edu.hk/subject/comp2021gp1/Module2/src/OODesign/GUI/RecPanel.java"
+   copied="true"
+   copyfrom-rev="10"
+   kind="file"/>
+<entry
+   name="TextArea.java"
+   revision="13"
+   schedule="add"
+   copied="true"
+   copyfrom-url="https://repo.comp.polyu.edu.hk/subject/comp2021gp1/Module2/src/OODesign/GUI/TextArea.java"
+   kind="file"
+   copyfrom-rev="13"/>
+<entry
+   name="package-info.java"
+   revision="17"
+   checksum="ac5e170a068154881ffa3abb1a6458a3"
+   last-author="12132031d"
+   text-time="2013-12-01T14:26:04.091000Z"
+   committed-rev="17"
+   kind="file"
+   committed-date="2013-12-01T16:53:42.847000Z"/>
+</wc-entries>

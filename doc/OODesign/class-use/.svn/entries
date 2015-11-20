@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://repo.comp.polyu.edu.hk/subject/comp2021gp1"
+   name=""
+   revision="10"
+   last-author="12131354d"
+   url="https://repo.comp.polyu.edu.hk/subject/comp2021gp1/Module2/doc/OODesign/class-use"
+   uuid="0d1b02aa-3d6d-11e3-9422-172e5f342b5b"
+   committed-rev="8"
+   kind="dir"
+   committed-date="2013-11-21T11:00:33.021016Z"/>
+<entry
+   name="MyFrame.html"
+   checksum="8187faa5ce18e5da8daa4b8a35aaabac"
+   last-author="12131354d"
+   committed-rev="8"
+   text-time="2013-11-21T11:00:33.021000Z"
+   kind="file"
+   committed-date="2013-11-21T11:00:33.021016Z"/>
+<entry
+   name="MyMain.html"
+   checksum="f61c5c3a83ec774a245cee6e22217c11"
+   last-author="12131354d"
+   committed-rev="8"
+   text-time="2013-11-21T11:00:33.021000Z"
+   kind="file"
+   committed-date="2013-11-21T11:00:33.021016Z"/>
+<entry
+   name="MyPanel.html"
+   checksum="d776d48712144f570d2681a168699ae9"
+   last-author="12131354d"
+   committed-rev="8"
+   text-time="2013-11-21T11:00:33.021000Z"
+   kind="file"
+   committed-date="2013-11-21T11:00:33.021016Z"/>
+<entry
+   name="MyPanelInterface.html"
+   checksum="85498755ee704741658af3b7dd8204d1"
+   last-author="12131354d"
+   committed-rev="8"
+   text-time="2013-11-21T11:00:33.021000Z"
+   kind="file"
+   committed-date="2013-11-21T11:00:33.021016Z"/>
+<entry
+   name="MyTextFieldFrame.html"
+   checksum="be0a1e7a9bfad1a53ee55686a814f8b5"
+   last-author="12131354d"
+   committed-rev="8"
+   text-time="2013-11-21T11:00:33.021000Z"
+   kind="file"
+   committed-date="2013-11-21T11:00:33.021016Z"/>
+<entry
+   name="SetButton.html"
+   checksum="d4ae5c7e23d896618c93800cd0d1cf14"
+   last-author="12131354d"
+   committed-rev="8"
+   text-time="2013-11-21T11:00:33.021000Z"
+   kind="file"
+   committed-date="2013-11-21T11:00:33.021016Z"/>
+<entry
+   name="SetPicture.html"
+   checksum="0a57afc60acdc4c319eff1920b45f6e8"
+   last-author="12131354d"
+   committed-rev="8"
+   text-time="2013-11-21T11:00:33.021000Z"
+   kind="file"
+   committed-date="2013-11-21T11:00:33.021016Z"/>
+<entry
+   name="SetTextArea.html"
+   checksum="f07f6e6ad8f4d981a81f3a9c77e2ea38"
+   last-author="12131354d"
+   committed-rev="8"
+   text-time="2013-11-21T11:00:33.021000Z"
+   kind="file"
+   committed-date="2013-11-21T11:00:33.021016Z"/>
+</wc-entries>

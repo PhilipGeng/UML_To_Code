@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://repo.comp.polyu.edu.hk/subject/comp2021gp1"
+   name=""
+   revision="17"
+   last-author="12132031d"
+   url="https://repo.comp.polyu.edu.hk/subject/comp2021gp1/Module2/src/OODesign/GUI/relation/implement"
+   committed-rev="17"
+   kind="dir"
+   committed-date="2013-12-01T16:53:42.847000Z"/>
+<entry
+   name="ImplementArrowButton.java"
+   checksum="24f0a75b4bc98c5f13978839c2cefb36"
+   last-author="12132031d"
+   text-time="2013-12-01T15:49:17.961000Z"
+   committed-rev="17"
+   kind="file"
+   committed-date="2013-12-01T16:53:42.847000Z"/>
+<entry
+   name="ImplementArrowPanel.java"
+   checksum="f81966fc28870a8993cfdc0eb26586ab"
+   last-author="12132031d"
+   text-time="2013-12-01T15:48:58.470000Z"
+   committed-rev="17"
+   kind="file"
+   committed-date="2013-12-01T16:53:42.847000Z"/>
+<entry
+   name="SetImplement.java"
+   checksum="776a545d854130a842f413b9ec8a2fb6"
+   last-author="12132031d"
+   text-time="2013-12-01T15:48:33.758000Z"
+   committed-rev="17"
+   kind="file"
+   committed-date="2013-12-01T16:53:42.847000Z"/>
+<entry
+   name="package-info.java"
+   checksum="5b6e8d4c3d01e0edfbecdccaa2990c06"
+   last-author="12132031d"
+   text-time="2013-12-01T15:48:33.846000Z"
+   committed-rev="17"
+   kind="file"
+   committed-date="2013-12-01T16:53:42.847000Z"/>
+</wc-entries>

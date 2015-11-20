@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://repo.comp.polyu.edu.hk/subject/comp2021gp1"
+   name=""
+   revision="17"
+   last-author="12132031d"
+   url="https://repo.comp.polyu.edu.hk/subject/comp2021gp1/Module2/src/OODesign/GUI/relation/composition"
+   committed-rev="17"
+   kind="dir"
+   committed-date="2013-12-01T16:53:42.847000Z"/>
+<entry
+   name="CompositionArrowButton.java"
+   checksum="935f922542c6c56a1bb39d343461959e"
+   last-author="12132031d"
+   text-time="2013-12-01T14:48:19.343000Z"
+   committed-rev="17"
+   kind="file"
+   committed-date="2013-12-01T16:53:42.847000Z"/>
+<entry
+   name="CompositionArrowPanel.java"
+   checksum="86b6bfbe09f91e30760c3b1655cb92ab"
+   last-author="12132031d"
+   text-time="2013-12-01T16:36:09.669000Z"
+   committed-rev="17"
+   kind="file"
+   committed-date="2013-12-01T16:53:42.847000Z"/>
+<entry
+   name="SetComposition.java"
+   checksum="f04256e8c256cb25d975748695bb9739"
+   last-author="12132031d"
+   text-time="2013-12-01T15:32:53.227000Z"
+   committed-rev="17"
+   kind="file"
+   committed-date="2013-12-01T16:53:42.847000Z"/>
+<entry
+   name="package-info.java"
+   checksum="aec953f08af3db0c80365bb39b31aa63"
+   last-author="12132031d"
+   text-time="2013-12-01T14:31:11.859000Z"
+   committed-rev="17"
+   kind="file"
+   committed-date="2013-12-01T16:53:42.847000Z"/>
+</wc-entries>

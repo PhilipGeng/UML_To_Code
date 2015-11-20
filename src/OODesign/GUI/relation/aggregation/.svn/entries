@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://repo.comp.polyu.edu.hk/subject/comp2021gp1"
+   name=""
+   revision="17"
+   last-author="12132031d"
+   url="https://repo.comp.polyu.edu.hk/subject/comp2021gp1/Module2/src/OODesign/GUI/relation/aggregation"
+   committed-rev="17"
+   kind="dir"
+   committed-date="2013-12-01T16:53:42.847000Z"/>
+<entry
+   name="AggregationArrowButton.java"
+   checksum="84329c0157b0f0f74479ec4a55d9109f"
+   last-author="12132031d"
+   text-time="2013-12-01T14:44:59.737000Z"
+   committed-rev="17"
+   kind="file"
+   committed-date="2013-12-01T16:53:42.847000Z"/>
+<entry
+   name="AggregationArrowPanel.java"
+   checksum="3cd887794ceaa6d5f2aecf42c1c046f8"
+   last-author="12132031d"
+   text-time="2013-12-01T16:35:31.419000Z"
+   committed-rev="17"
+   kind="file"
+   committed-date="2013-12-01T16:53:42.847000Z"/>
+<entry
+   name="SetAggregation.java"
+   checksum="1884f4b73bccd80a6d3e233e6b255225"
+   last-author="12132031d"
+   text-time="2013-12-01T15:33:06.572000Z"
+   committed-rev="17"
+   kind="file"
+   committed-date="2013-12-01T16:53:42.847000Z"/>
+<entry
+   name="package-info.java"
+   checksum="af3b49fbeed71f85bd94e32294210f6f"
+   last-author="12132031d"
+   text-time="2013-12-01T14:31:22.353000Z"
+   committed-rev="17"
+   kind="file"
+   committed-date="2013-12-01T16:53:42.847000Z"/>
+</wc-entries>

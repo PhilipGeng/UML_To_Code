@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="https://repo.comp.polyu.edu.hk/subject/comp2021gp1"
+   revision="10"
+   last-author="12131354d"
+   uuid="0d1b02aa-3d6d-11e3-9422-172e5f342b5b"
+   url="https://repo.comp.polyu.edu.hk/subject/comp2021gp1/Module2/src/OODesign"
+   committed-rev="8"
+   kind="dir"
+   committed-date="2013-11-21T11:00:33.021016Z"/>
+<entry
+   name="GUI"
+   kind="dir"/>
+<entry
+   name="image"
+   kind="dir"/>
+<entry
+   name="logic"
+   kind="dir"/>
+</wc-entries>

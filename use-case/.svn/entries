@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://repo.comp.polyu.edu.hk/subject/comp2021gp1"
+   name=""
+   revision="10"
+   last-author="12131354d"
+   url="https://repo.comp.polyu.edu.hk/subject/comp2021gp1/Module2/use-case"
+   uuid="0d1b02aa-3d6d-11e3-9422-172e5f342b5b"
+   committed-rev="8"
+   kind="dir"
+   committed-date="2013-11-21T11:00:33.021016Z"/>
+<entry
+   name="Use Case 1.pdf"
+   checksum="b7d397eb26ef093c6639008d9f6a859c"
+   last-author="12131354d"
+   committed-rev="8"
+   text-time="2013-11-21T11:00:33.021000Z"
+   kind="file"
+   committed-date="2013-11-21T11:00:33.021016Z"
+   prop-time="2013-11-22T06:45:56.147000Z"/>
+<entry
+   name="oo-model"
+   kind="dir"/>
+<entry
+   name="system sequence diagram.pdf"
+   checksum="c205e41549220aa026e23c21838fc6c6"
+   last-author="12131354d"
+   committed-rev="8"
+   text-time="2013-11-21T11:00:33.021000Z"
+   kind="file"
+   committed-date="2013-11-21T11:00:33.021016Z"
+   prop-time="2013-11-22T06:45:56.262000Z"/>
+<entry
+   name="use case diagram.pdf"
+   checksum="9b6e33606c6d00db69871200c048dea0"
+   last-author="12131354d"
+   committed-rev="8"
+   text-time="2013-11-21T11:00:33.021000Z"
+   kind="file"
+   committed-date="2013-11-21T11:00:33.021016Z"
+   prop-time="2013-11-22T06:45:56.208000Z"/>
+</wc-entries>

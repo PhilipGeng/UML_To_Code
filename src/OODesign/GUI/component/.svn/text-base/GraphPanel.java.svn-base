@@ -1,0 +1,16 @@
+package OODesign.GUI;
+
+
+import java.awt.Graphics;
+
+import javax.swing.JPanel;
+/**
+ * this is an abstract class of graphic panels
+ * @see InheritanceArrowPanel
+ * @see RecPanel
+ * @author ZHANG Beibei
+ *
+ */
+abstract public class GraphPanel extends JPanel{
+	abstract protected void paintComponent(Graphics g);
+}

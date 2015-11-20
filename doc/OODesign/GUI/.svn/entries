@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://repo.comp.polyu.edu.hk/subject/comp2021gp1"
+   name=""
+   revision="10"
+   last-author="12131354d"
+   url="https://repo.comp.polyu.edu.hk/subject/comp2021gp1/Module2/doc/OODesign/GUI"
+   uuid="0d1b02aa-3d6d-11e3-9422-172e5f342b5b"
+   committed-rev="8"
+   kind="dir"
+   committed-date="2013-11-21T11:00:33.021016Z"/>
+<entry
+   name="ArrowButton.html"
+   checksum="832ba7559416e8d4fc8129ac027b95ce"
+   last-author="12131354d"
+   committed-rev="8"
+   text-time="2013-11-21T11:00:33.021000Z"
+   kind="file"
+   committed-date="2013-11-21T11:00:33.021016Z"/>
+<entry
+   name="ArrowPanel.html"
+   checksum="4cdfd80588db67e1a42e916007bc198d"
+   last-author="12131354d"
+   committed-rev="8"
+   text-time="2013-11-21T11:00:33.021000Z"
+   kind="file"
+   committed-date="2013-11-21T11:00:33.021016Z"/>
+<entry
+   name="ButtonInterface.html"
+   checksum="02aa42a0037b82a911fc4c94c829e0bf"
+   last-author="12131354d"
+   committed-rev="8"
+   text-time="2013-11-21T11:00:33.021000Z"
+   kind="file"
+   committed-date="2013-11-21T11:00:33.021016Z"/>
+<entry
+   name="ClassButton.html"
+   checksum="d3ff00ac5db47fe38b6804f2f357c488"
+   last-author="12131354d"
+   committed-rev="8"
+   text-time="2013-11-21T11:00:33.021000Z"
+   kind="file"
+   committed-date="2013-11-21T11:00:33.021016Z"/>
+<entry
+   name="GraphPanel.html"
+   checksum="80e3781445b3e0117b77e109593ff5af"
+   last-author="12131354d"
+   committed-rev="8"
+   text-time="2013-11-21T11:00:33.021000Z"
+   kind="file"
+   committed-date="2013-11-21T11:00:33.021016Z"/>
+<entry
+   name="Main.html"
+   checksum="caff5ca5b36ad516e6ad66e92d64018b"
+   last-author="12131354d"
+   committed-rev="8"
+   text-time="2013-11-21T11:00:33.021000Z"
+   kind="file"
+   committed-date="2013-11-21T11:00:33.021016Z"/>
+<entry
+   name="MainPanel.html"
+   checksum="fd265216465985a1152bfd54c144c269"
+   last-author="12131354d"
+   committed-rev="8"
+   text-time="2013-11-21T11:00:33.021000Z"
+   kind="file"
+   committed-date="2013-11-21T11:00:33.021016Z"/>
+<entry
+   name="MainWindow.html"
+   checksum="ca87295c740f189df2750a6d00456b49"
+   last-author="12131354d"
+   committed-rev="8"
+   text-time="2013-11-21T11:00:33.021000Z"
+   kind="file"
+   committed-date="2013-11-21T11:00:33.021016Z"/>
+<entry
+   name="MiddlePanel.html"
+   checksum="196f21ef7d2f71f007564da8af36a6f6"
+   last-author="12131354d"
+   committed-rev="8"
+   text-time="2013-11-21T11:00:33.021000Z"
+   kind="file"
+   committed-date="2013-11-21T11:00:33.021016Z"/>
+<entry
+   name="RecPanel.html"
+   checksum="9a6f951c58dcbaa95b61c3b11681353e"
+   last-author="12131354d"
+   committed-rev="8"
+   text-time="2013-11-21T11:00:33.021000Z"
+   kind="file"
+   committed-date="2013-11-21T11:00:33.021016Z"/>
+<entry
+   name="SubWindow.html"
+   checksum="0048a6776fe68459892d48c1408be5ab"
+   last-author="12131354d"
+   committed-rev="8"
+   text-time="2013-11-21T11:00:33.021000Z"
+   kind="file"
+   committed-date="2013-11-21T11:00:33.021016Z"/>
+<entry
+   name="TextArea.html"
+   checksum="9c4d5a0da3999fe122e8249876b83176"
+   last-author="12131354d"
+   committed-rev="8"
+   text-time="2013-11-21T11:00:33.021000Z"
+   kind="file"
+   committed-date="2013-11-21T11:00:33.021016Z"/>
+<entry
+   name="class-use"
+   kind="dir"/>
+<entry
+   name="package-frame.html"
+   checksum="ec477c011d239e6676964b25445627c7"
+   last-author="12131354d"
+   committed-rev="8"
+   text-time="2013-11-21T11:00:33.021000Z"
+   kind="file"
+   committed-date="2013-11-21T11:00:33.021016Z"/>
+<entry
+   name="package-summary.html"
+   checksum="57bc29c99038b8497c0d04a7860ebe94"
+   last-author="12131354d"
+   committed-rev="8"
+   text-time="2013-11-21T11:00:33.021000Z"
+   kind="file"
+   committed-date="2013-11-21T11:00:33.021016Z"/>
+<entry
+   name="package-tree.html"
+   checksum="6a9c6b7d5df081dccb752586a324f7a7"
+   last-author="12131354d"
+   committed-rev="8"
+   text-time="2013-11-21T11:00:33.021000Z"
+   kind="file"
+   committed-date="2013-11-21T11:00:33.021016Z"/>
+<entry
+   name="package-use.html"
+   checksum="1ff5059a084ebdda8301372449dc96d4"
+   last-author="12131354d"
+   committed-rev="8"
+   text-time="2013-11-21T11:00:33.021000Z"
+   kind="file"
+   committed-date="2013-11-21T11:00:33.021016Z"/>
+</wc-entries>

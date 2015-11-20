@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://repo.comp.polyu.edu.hk/subject/comp2021gp1"
+   name=""
+   revision="10"
+   last-author="12131354d"
+   url="https://repo.comp.polyu.edu.hk/subject/comp2021gp1/Module2/src/OODesign/GUI"
+   uuid="0d1b02aa-3d6d-11e3-9422-172e5f342b5b"
+   committed-rev="8"
+   kind="dir"
+   committed-date="2013-11-21T11:00:33.021016Z"/>
+<entry
+   name="ArrowButton.java"
+   revision="15"
+   kind="file"
+   deleted="true"/>
+<entry
+   name="ArrowPanel.java"
+   revision="15"
+   kind="file"
+   deleted="true"/>
+<entry
+   name="ButtonInterface.java"
+   revision="17"
+   kind="file"
+   deleted="true"/>
+<entry
+   name="ClassButton.java"
+   revision="17"
+   kind="file"
+   deleted="true"/>
+<entry
+   name="ClassNotFoundWindow.java"
+   revision="17"
+   kind="file"
+   deleted="true"/>
+<entry
+   name="ExtendArrowButton.java"
+   revision="17"
+   kind="file"
+   deleted="true"/>
+<entry
+   name="ExtendArrowPanel.java"
+   revision="17"
+   kind="file"
+   deleted="true"/>
+<entry
+   name="GraphPanel.java"
+   revision="17"
+   kind="file"
+   deleted="true"/>
+<entry
+   name="InheritanceArrowButton.java"
+   revision="17"
+   kind="file"
+   deleted="true"/>
+<entry
+   name="InheritanceArrowPanel.java"
+   revision="17"
+   kind="file"
+   deleted="true"/>
+<entry
+   name="Main.java"
+   revision="15"
+   kind="file"
+   deleted="true"/>
+<entry
+   name="MainPanel.java"
+   revision="17"
+   kind="file"
+   deleted="true"/>
+<entry
+   name="MainWindow.java"
+   revision="17"
+   kind="file"
+   deleted="true"/>
+<entry
+   name="MiddlePanel.java"
+   revision="17"
+   kind="file"
+   deleted="true"/>
+<entry
+   name="RecPanel.java"
+   revision="17"
+   kind="file"
+   deleted="true"/>
+<entry
+   name="SetAggregation.java"
+   revision="17"
+   kind="file"
+   deleted="true"/>
+<entry
+   name="SetCongression.java"
+   revision="17"
+   kind="file"
+   deleted="true"/>
+<entry
+   name="SetExtend.java"
+   revision="17"
+   kind="file"
+   deleted="true"/>
+<entry
+   name="SetImplement.java"
+   revision="17"
+   kind="file"
+   deleted="true"/>
+<entry
+   name="SetRelationEnquiry.java"
+   revision="17"
+   kind="file"
+   deleted="true"/>
+<entry
+   name="SubWindow.java"
+   revision="17"
+   kind="file"
+   deleted="true"/>
+<entry
+   name="TextArea.java"
+   revision="17"
+   kind="file"
+   deleted="true"/>
+<entry
+   name="package-info.java"
+   revision="17"
+   kind="file"
+   deleted="true"/>
+<entry
+   name="relation"
+   kind="dir"/>
+<entry
+   name="windows"
+   kind="dir"/>
+</wc-entries>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://repo.comp.polyu.edu.hk/subject/comp2021gp1"
+   name=""
+   revision="10"
+   last-author="12131354d"
+   url="https://repo.comp.polyu.edu.hk/subject/comp2021gp1/Module2/src/OODesign/logic"
+   uuid="0d1b02aa-3d6d-11e3-9422-172e5f342b5b"
+   committed-rev="8"
+   kind="dir"
+   committed-date="2013-11-21T11:00:33.021016Z"/>
+<entry
+   name="ClassAttributes.java"
+   revision="11"
+   kind="file"
+   deleted="true"/>
+<entry
+   name="ClassList.java"
+   revision="17"
+   checksum="ef6633d04a0545b4c097a1e3b1a2ead9"
+   last-author="12132031d"
+   text-time="2013-12-01T14:03:53.169000Z"
+   committed-rev="17"
+   kind="file"
+   committed-date="2013-12-01T16:53:42.847000Z"/>
+<entry
+   name="ClassMethods.java"
+   revision="11"
+   kind="file"
+   deleted="true"/>
+<entry
+   name="ClassModifier.java"
+   revision="11"
+   kind="file"
+   deleted="true"/>
+<entry
+   name="ClassName.java"
+   revision="11"
+   kind="file"
+   deleted="true"/>
+<entry
+   name="Components.java"
+   revision="13"
+   checksum="11543cf5809921acefc72bf83b49f5b0"
+   last-author="12132031d"
+   text-time="2013-11-26T18:07:15.852000Z"
+   committed-rev="13"
+   kind="file"
+   committed-date="2013-11-27T03:47:06.032000Z"/>
+<entry
+   name="JavaAttribute.java"
+   revision="13"
+   checksum="9f41801160b39703ef64a58e6c12e24c"
+   last-author="12132031d"
+   text-time="2013-11-26T16:54:13.016000Z"
+   committed-rev="13"
+   kind="file"
+   committed-date="2013-11-27T03:47:06.032000Z"/>
+<entry
+   name="JavaClass.java"
+   revision="17"
+   checksum="79c067c6160f376a44cdadb10632e99c"
+   last-author="12132031d"
+   committed-rev="17"
+   text-time="2013-12-01T16:11:13.038000Z"
+   kind="file"
+   committed-date="2013-12-01T16:53:42.847000Z"/>
+<entry
+   name="JavaFile.java"
+   revision="17"
+   checksum="95e2e79d45eb45812aa5b436bebbf968"
+   last-author="12132031d"
+   committed-rev="17"
+   text-time="2013-12-01T14:26:03.500000Z"
+   kind="file"
+   committed-date="2013-12-01T16:53:42.847000Z"/>
+<entry
+   name="JavaMethod.java"
+   revision="13"
+   checksum="e529273b5aa8f749f3506d4be4d8d91b"
+   last-author="12132031d"
+   text-time="2013-11-26T16:53:23.010000Z"
+   committed-rev="13"
+   kind="file"
+   committed-date="2013-11-27T03:47:06.032000Z"/>
+<entry
+   name="package-info.java"
+   checksum="069b96f171419d191668c91bf15f6757"
+   last-author="12131354d"
+   committed-rev="8"
+   text-time="2013-11-21T11:00:33.021000Z"
+   kind="file"
+   committed-date="2013-11-21T11:00:33.021016Z"/>
+</wc-entries>

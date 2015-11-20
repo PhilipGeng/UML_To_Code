@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://repo.comp.polyu.edu.hk/subject/comp2021gp1"
+   name=""
+   revision="17"
+   last-author="12132031d"
+   url="https://repo.comp.polyu.edu.hk/subject/comp2021gp1/Module2/src/OODesign/GUI/windows"
+   committed-rev="17"
+   kind="dir"
+   committed-date="2013-12-01T16:53:42.847000Z"/>
+<entry
+   name="ClassNotFoundWindow.java"
+   checksum="3e974e5e3db189c700ed71aadfa59411"
+   last-author="12132031d"
+   text-time="2013-12-01T14:40:33.016000Z"
+   committed-rev="17"
+   kind="file"
+   committed-date="2013-12-01T16:53:42.847000Z"/>
+<entry
+   name="DeleteWindow.java"
+   checksum="bb64341c806b2cc90d6ab4cfd23aa7fb"
+   last-author="12132031d"
+   text-time="2013-12-01T15:29:45.356000Z"
+   committed-rev="17"
+   kind="file"
+   committed-date="2013-12-01T16:53:42.847000Z"/>
+<entry
+   name="MainWindow.java"
+   checksum="7854ea29e49a8c0e88c5f34e7f94b9e9"
+   last-author="12132031d"
+   text-time="2013-12-01T14:38:30.017000Z"
+   committed-rev="17"
+   kind="file"
+   committed-date="2013-12-01T16:53:42.847000Z"/>
+<entry
+   name="SetRelationEnquiry.java"
+   checksum="d5291b29cf5e952be71c2b78ab1fb4f9"
+   last-author="12132031d"
+   text-time="2013-12-01T15:48:33.679000Z"
+   committed-rev="17"
+   kind="file"
+   committed-date="2013-12-01T16:53:42.847000Z"/>
+<entry
+   name="SubWindow.java"
+   checksum="698cd082f39ad2e97d587b27c929f827"
+   last-author="12132031d"
+   text-time="2013-12-01T15:39:26.475000Z"
+   committed-rev="17"
+   kind="file"
+   committed-date="2013-12-01T16:53:42.847000Z"/>
+<entry
+   name="package-info.java"
+   checksum="27c76d58648cd1daed1c63b4a70dcef6"
+   last-author="12132031d"
+   text-time="2013-12-01T14:21:34.835000Z"
+   committed-rev="17"
+   kind="file"
+   committed-date="2013-12-01T16:53:42.847000Z"/>
+</wc-entries>

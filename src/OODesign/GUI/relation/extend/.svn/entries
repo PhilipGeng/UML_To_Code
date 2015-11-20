@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://repo.comp.polyu.edu.hk/subject/comp2021gp1"
+   name=""
+   revision="17"
+   last-author="12132031d"
+   url="https://repo.comp.polyu.edu.hk/subject/comp2021gp1/Module2/src/OODesign/GUI/relation/extend"
+   committed-rev="17"
+   kind="dir"
+   committed-date="2013-12-01T16:53:42.847000Z"/>
+<entry
+   name="ExtendArrowButton.java"
+   checksum="03e3cd6df8100a8f2c390fc5766f92f7"
+   last-author="12132031d"
+   text-time="2013-12-01T14:30:54.762000Z"
+   committed-rev="17"
+   kind="file"
+   committed-date="2013-12-01T16:53:42.847000Z"/>
+<entry
+   name="ExtendArrowPanel.java"
+   checksum="adf9211b570ffc361c440bb7f4e295ae"
+   last-author="12132031d"
+   text-time="2013-12-01T14:30:54.753000Z"
+   committed-rev="17"
+   kind="file"
+   committed-date="2013-12-01T16:53:42.847000Z"/>
+<entry
+   name="SetExtend.java"
+   checksum="7808852d0f93d910fc08f338ac381285"
+   last-author="12132031d"
+   text-time="2013-12-01T14:30:54.688000Z"
+   committed-rev="17"
+   kind="file"
+   committed-date="2013-12-01T16:53:42.847000Z"/>
+<entry
+   name="package-info.java"
+   checksum="d2a5dd31970cb801b03a1015681939f0"
+   last-author="12132031d"
+   text-time="2013-12-01T14:30:54.741000Z"
+   committed-rev="17"
+   kind="file"
+   committed-date="2013-12-01T16:53:42.847000Z"/>
+</wc-entries>
